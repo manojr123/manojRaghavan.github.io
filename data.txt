@@ -1,0 +1,50 @@
+Employee Review System 
+manoj@gmail.com 1
+
+Issue Tracker
+manojr@gmail.com 123
+
+Social Media
+manojr@gmail.com 123
+
+Ecommerce API
+	done
+
+React Ipod
+	done
+
+React Album
+	done
+
+React Chat
+
+Superhero Hunter
+	done
+
+React Movie App
+	done
+Alarm Clock
+	done
+
+To Do List
+
+Ping Pong Game
+	done
+
+Music app
+	done
+
+---------------
+
+React Codeial
+
+
+React dropdown :
+https://manojraghavan-react-dropdown.netlify.app/
+https://github.com/manojr123/react-dropdown
+
+React-album :
+
+
+
+
