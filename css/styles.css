@@ -75,7 +75,11 @@ img {
     background-color: #9FCFFF;
     background-color: #CC9900;
     box-shadow: 10px 5px;
-
+    text-align: center;
+    display : flex;
+    align-items: center;
+    justify-content: center;
+    color:maroon
 }
 
 .projectContainer {
@@ -119,7 +123,7 @@ button {
     border-radius: 5px;
     text-align: left;
     margin-left: 20px;
-
+    
 }
 button:hover {
     background-color: rgb(233, 158, 20);
@@ -134,4 +138,12 @@ button:hover {
     margin-left: 30px;
     margin-right: 20px;
 
+}
+a:visited {
+    color: white;
+
+}
+
+button a:visited {
+    color: maroon;
 }
